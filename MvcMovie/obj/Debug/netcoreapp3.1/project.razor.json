@@ -20556,6 +20556,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Namchok\\source\\repos\\ASP.NET-Core-MVC\\MvcMovie\\Views\\HelloWorld\\Welcome.cshtml",
+      "TargetPath": "Views\\HelloWorld\\Welcome.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Namchok\\source\\repos\\ASP.NET-Core-MVC\\MvcMovie\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
       "FileKind": "mvc"
